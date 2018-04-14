@@ -1,0 +1,2 @@
+# git-sopt
+sopt seminar
